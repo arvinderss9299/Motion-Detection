@@ -140,7 +140,7 @@ The core idea of this project is to detect moving objects in an image sequence w
 
 ## Results and Discussion
 
-- **Included in the project_report.pdf**
+- Included in the **project_report.pdf**
 
 ## License
 
